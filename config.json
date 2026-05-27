@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustercrocess",
+        "uuid": 6152878,
+        "checksum": "u94ze"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
